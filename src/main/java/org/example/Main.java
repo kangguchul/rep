@@ -1,7 +1,7 @@
 package org.example;
 //brench 3입니다.
 //mydev2를 브렌 7로 업 브렌치
-sdfsdf
+//sdfsdf
 //sdfsdf
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -13,7 +13,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 500000; i++) {
 
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
